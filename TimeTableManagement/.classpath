@@ -6,5 +6,9 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/Downloads/rs2xml (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/Downloads/sqlite-jdbc-3.36.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/Desktop/jgoodies-common-1.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ASUS/Desktop/jgoodies-forms-1.8.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
